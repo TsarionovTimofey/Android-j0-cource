@@ -1,1 +1,3 @@
-# Android-j0-cource
+# Android-j0-course
+
+# Шаблон приложения с пустой активити
